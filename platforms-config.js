@@ -7,7 +7,7 @@
  */
 
 const PLATFORMS_CONFIG = [
-    { id: 1, url: 'https://YOUR-AFFILIATE-LINK-1.com' },
+    { id: 1, url: 'https://hehehe.com' },
     { id: 2, url: 'https://YOUR-AFFILIATE-LINK-2.com' },
     { id: 3, url: 'https://YOUR-AFFILIATE-LINK-3.com' },
     { id: 4, url: 'https://YOUR-AFFILIATE-LINK-4.com' },
@@ -27,4 +27,5 @@ const PLATFORMS_CONFIG = [
 ];
 
 console.log('✅ Site 4 (Green) platforms loaded');
+
 
