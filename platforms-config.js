@@ -1,5 +1,5 @@
 /**
- * SITE 1 - BLUE THEME
+ * SITE 4 - GREEN MATRIX THEME
  * Platform Configuration
  * =====================
  * Customize YOUR affiliate links below.
@@ -26,5 +26,5 @@ const PLATFORMS_CONFIG = [
     { id: 17, url: 'https://YOUR-AFFILIATE-LINK-17.com' }
 ];
 
-console.log('✅ Site 1 (Blue) platforms loaded');
+console.log('✅ Site 4 (Green) platforms loaded');
 
